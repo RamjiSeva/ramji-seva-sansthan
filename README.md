@@ -2,18 +2,7 @@
 Ramji Seva Sansthan Official Website
 <!DOCTYPE html><html lang="hi">
 <head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>रामजी सेवा संस्थान</title>
-  <style>
-    body { font-family: 'Arial', sans-serif; background-color: #f8f9fa; margin: 0; padding: 0; color: #333; }
-    header { background-color: #006400; color: white; padding: 20px; text-align: center; }
-    nav { background-color: #eee; padding: 10px; text-align: center; }
-    nav a { margin: 10px; color: #006400; text-decoration: none; font-weight: bold; }
-    section { padding: 20px; }
-    footer { background-color: #006400; color: white; text-align: center; padding: 10px; }
-    .qr { text-align: center; margin-top: 20px; }
-    img.qr-img { max-width: 200px; }
+; }
   </style>
 </head>
 <body>

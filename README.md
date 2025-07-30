@@ -2,7 +2,6 @@
 Ramji Seva Sansthan Official Website
 <!DOCTYPE html><html lang="hi">
 <head>
-; }
 </head>
 <body>
   <header>
